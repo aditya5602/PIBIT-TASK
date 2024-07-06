@@ -1,0 +1,103 @@
+Summary
+I am Aditya Neema, currently pursuing a Bachelor's degree in Computer Science at SRM University, with a GPA of 8.51. I
+prioritize academic excellence and have a strong passion for frontend development. Through various projects and
+internships, I have developed and refined my skills. My goal is to integrate technical expertise with social responsibility,
+embrace new challenges, and seek opportunities for collaborative growth.
+Education
+SRM Institute of Science and Technology, Kattankulathur Sep 2021 - Present
+B.Tech · Computer Science · Chennai CGPA-8.51/10
+Modern International School Apr 2020 - Jul 2021
+12th · CBSE · Indore Percentage-82.80/100
+New Digamber Public School Apr 2018 - May 2019
+10th · CBSE · Indore Percentage-92.40/100
+Skills
+Python, C, C++, Java, CSS, JavaScript, MySQL, UI/UX, HTML, Project Management, Figma, Git, Github, Bootstrap,
+Bootstrap, Adobe Photoshop, OOPS, DBMS, ReactJS
+Experience
+CodeAlpha | Link Mar 2024 - Apr 2024
+· Web Developer · Internship Virtual
+Engaged in collaborative projects focused on creating user-centric interfaces, integrating responsive design, and improving
+website performance. Developed expertise in HTML, CSS, JavaScript, and Node.js through practical application and
+industry standards. Gained hands-on experience addressing real-world challenges, ensuring high-quality digital solutions
+Bharat Intern | Link Jan 2024 - Feb 2024
+· Full Stack Web Developer · Internship Virtual
+Engaged in the Bharat Intern internship program as a full stack developer, gaining practical experience with HTML, CSS,
+MongoDB, Node.js, and JavaScript. Developed skills in building robust web applications and implementing database
+solutions. Applied learned concepts to deliver efficient and scalable digital solutions.
+BootNext Tech Venture Private Limited | Link Jul 2023 - Jul 2023
+· UI/UX Developer · Internship Indore
+Interned at BootNext Tech Venture as a UI-UX developer, acquiring skills in prototyping, Figma proficiency, wireframing,
+layout design, and user research. Applied these skills to contribute to UI design projects, gaining practical experience in
+creating intuitive and user-friendly digital interfaces aligned with industry standards.
+Projects
+Blog Website | Github Jan 2024 - Feb 2024
+· HTML,CSS,JavaScript Web Developer
+Developed a feature-rich blog website using HTML, CSS, and JavaScript, enabling users to create, delete, and edit blog
+posts seamlessly. Implemented intuitive navigation, responsive design, and robust backend functionalities to enhance user
+experience and content management efficiency.
+Registration Form | Github Jan 2024 - Feb 2024
+· HTML,CSS,JavaScript Web Development
+Developed a registration form website using HTML, CSS, and JavaScript, implementing functionalities for successful user
+login validation and error handling. Demonstrated proficiency in frontend development and problem-solving, ensuring a
+seamless user experience through effective design and functionality.
+Portfolio Website | Github -
+· HTML,CSS,JavaScript Web Developer
+I designed and developed a personalized portfolio website using JavaScript, HTML, and CSS to showcase my skills,
+projects, and achievements. The website features a modern, responsive layout aimed at highlighting my proficiency in
+frontend development and creating an engaging user experience.
+Social Media Tracker Dashboard | Github Mar 2024 - Mar 2024
+· HTML,CSS,JavaScript Web Developer
+Created a social media dashboard using HTML, CSS, and JavaScript to analyze various social media handles. Implemented
+features for comprehensive analytics, showcasing proficiency in frontend development and data visualization. Designed to
+provide actionable insights for effective social media management
+Attendance Management System Using Facial Recognition Jun 2023 - Dec 2023
+· Python,OpenCV,HTML,CSS,JavaScript Machine Learning
+Designed an advanced attendance management system using facial recognition technology with Python, OpenCV, HTML,
+and CSS. Integrated real-time facial detection and recognition capabilities for accurate attendance tracking. Implemented
+a user-friendly interface with responsive design, ensuring efficient and secure management of attendance records.
+Library Management System Jan 2023 - Jun 2023
+· C,C++ Object Oriented Programming
+Developed a library management system using object-oriented programming principles, ensuring efficient cataloging,
+borrowing, and returning of books. Implemented with Java or Python, the system streamlined library operations,
+demonstrating proficiency in software design and enhancing user experience through intuitive functionality.
+3.5
+Certifications
+Oracle Cloud Infrastructure 2023 Certified Foundations Associate |
+Certificate
+Jul 2024 - Present
+Oracle · 100706012OCIF2023CA
+Welcome To ServiceNow -Micro Certification Jun 2024 -
+ServiceNow
+META Frontend Developer May 2023 -
+Coursera
+Financial Markets-By Yale University May 2024 -
+Coursera
+AI-ML Virtual Internship Program Nov 2023 -
+AICTE · :f2ec6718cfdd4ca1e7f36889c5f391b1
+Networking Basics Apr 2023 -
+Cisco
+AWS Academy Cloud Foundations Jul 2023 -
+AWS
+Conferences and Workshops
+MERN Full Stack Development Workshop | Certificate Aug 2023
+Department of Data Science and Business System · SRM Institute of Science and
+Technology
+UI/UX Masterclass | Certificate Aug 2023
+Team Gen-Y · SRM Institute of Science and Technology
+Proof of Community- Shardeum | Certificate Jan 2023
+DS Community · SRM Institute of Science and Technology
+Scholarships
+COSMIC 365 Internship Program Jul 2024
+COSMIC 365
+Currently engaged in a $600 internship program, gaining hands-on industry experience and refining technical skills.
+Applying academic knowledge in a professional environment, contributing to ongoing project success.
+Volunteering
+AARUSH -
+Volunteer
+Volunteered at Aarush, a student-organized fest, contributing to event planning, coordination, and execution. Assisted in
+managing various activities, showcasing strong organizational and teamwork skills. Played a key role in ensuring the fest's
+success through effective communication and problem-solving.
+Languages
+English [Professional Working Proficiency], Hindi [Professional Working Proficiency]
+Links
+LinkedIn, GitHub, HackerRank
